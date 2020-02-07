@@ -3,6 +3,7 @@ git for version controll
 check satus 
 add the files and new changes to track
 commit the changes with a message and then git push
+this is now a repo of the original
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
